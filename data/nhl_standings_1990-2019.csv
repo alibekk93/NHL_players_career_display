@@ -1,0 +1,728 @@
+season,team,GF,GA,GP
+1994,Detroit Red Wings,356.0,275.0,84.0
+1994,Toronto Maple Leafs,280.0,243.0,84.0
+1994,Dallas Stars,286.0,265.0,84.0
+1994,St. Louis Blues,270.0,283.0,84.0
+1994,Chicago Blackhawks,254.0,240.0,84.0
+1994,Winnipeg Jets,245.0,344.0,84.0
+1994,Calgary Flames,302.0,256.0,84.0
+1994,Vancouver Canucks,279.0,276.0,84.0
+1994,San Jose Sharks,252.0,265.0,84.0
+1994,Mighty Ducks of Anaheim,229.0,251.0,84.0
+1994,Los Angeles Kings,294.0,322.0,84.0
+1994,Edmonton Oilers,261.0,305.0,84.0
+1994,New York Rangers,299.0,231.0,84.0
+1994,New Jersey Devils,306.0,220.0,84.0
+1994,Washington Capitals,277.0,263.0,84.0
+1994,New York Islanders,282.0,264.0,84.0
+1994,Florida Panthers,233.0,233.0,84.0
+1994,Philadelphia Flyers,294.0,314.0,84.0
+1994,Tampa Bay Lightning,224.0,251.0,84.0
+1994,Pittsburgh Penguins,299.0,285.0,84.0
+1994,Boston Bruins,289.0,252.0,84.0
+1994,Montreal Canadiens,283.0,248.0,84.0
+1994,Buffalo Sabres,282.0,218.0,84.0
+1994,Quebec Nordiques,277.0,292.0,84.0
+1994,Hartford Whalers,227.0,288.0,84.0
+1994,Ottawa Senators,201.0,397.0,84.0
+1995,Detroit Red Wings,180.0,117.0,48.0
+1995,St. Louis Blues,178.0,135.0,48.0
+1995,Chicago Blackhawks,156.0,115.0,48.0
+1995,Toronto Maple Leafs,135.0,146.0,48.0
+1995,Dallas Stars,136.0,135.0,48.0
+1995,Winnipeg Jets,157.0,177.0,48.0
+1995,Calgary Flames,163.0,135.0,48.0
+1995,Vancouver Canucks,153.0,148.0,48.0
+1995,San Jose Sharks,129.0,161.0,48.0
+1995,Los Angeles Kings,142.0,174.0,48.0
+1995,Edmonton Oilers,136.0,183.0,48.0
+1995,Mighty Ducks of Anaheim,125.0,164.0,48.0
+1995,Philadelphia Flyers,150.0,132.0,48.0
+1995,New Jersey Devils,136.0,121.0,48.0
+1995,Washington Capitals,136.0,120.0,48.0
+1995,New York Rangers,139.0,134.0,48.0
+1995,Florida Panthers,115.0,127.0,48.0
+1995,Tampa Bay Lightning,120.0,144.0,48.0
+1995,New York Islanders,126.0,158.0,48.0
+1995,Quebec Nordiques,185.0,134.0,48.0
+1995,Pittsburgh Penguins,181.0,158.0,48.0
+1995,Boston Bruins,150.0,127.0,48.0
+1995,Buffalo Sabres,130.0,119.0,48.0
+1995,Hartford Whalers,127.0,141.0,48.0
+1995,Montreal Canadiens,125.0,148.0,48.0
+1995,Ottawa Senators,117.0,174.0,48.0
+1996,Detroit Red Wings,325.0,181.0,82.0
+1996,Chicago Blackhawks,273.0,220.0,82.0
+1996,Toronto Maple Leafs,247.0,252.0,82.0
+1996,St. Louis Blues,219.0,248.0,82.0
+1996,Winnipeg Jets,275.0,291.0,82.0
+1996,Dallas Stars,227.0,280.0,82.0
+1996,Colorado Avalanche,326.0,240.0,82.0
+1996,Calgary Flames,241.0,240.0,82.0
+1996,Vancouver Canucks,278.0,278.0,82.0
+1996,Mighty Ducks of Anaheim,234.0,247.0,82.0
+1996,Edmonton Oilers,240.0,304.0,82.0
+1996,Los Angeles Kings,256.0,302.0,82.0
+1996,San Jose Sharks,252.0,357.0,82.0
+1996,Philadelphia Flyers,282.0,208.0,82.0
+1996,New York Rangers,272.0,237.0,82.0
+1996,Florida Panthers,254.0,234.0,82.0
+1996,Washington Capitals,234.0,204.0,82.0
+1996,Tampa Bay Lightning,238.0,248.0,82.0
+1996,New Jersey Devils,215.0,202.0,82.0
+1996,New York Islanders,229.0,315.0,82.0
+1996,Pittsburgh Penguins,362.0,284.0,82.0
+1996,Boston Bruins,282.0,269.0,82.0
+1996,Montreal Canadiens,265.0,248.0,82.0
+1996,Hartford Whalers,237.0,259.0,82.0
+1996,Buffalo Sabres,247.0,262.0,82.0
+1996,Ottawa Senators,191.0,291.0,82.0
+1997,Dallas Stars,252.0,198.0,82.0
+1997,Detroit Red Wings,253.0,197.0,82.0
+1997,Phoenix Coyotes,240.0,243.0,82.0
+1997,St. Louis Blues,236.0,239.0,82.0
+1997,Chicago Blackhawks,223.0,210.0,82.0
+1997,Toronto Maple Leafs,230.0,273.0,82.0
+1997,Colorado Avalanche,277.0,205.0,82.0
+1997,Mighty Ducks of Anaheim,245.0,233.0,82.0
+1997,Edmonton Oilers,252.0,247.0,82.0
+1997,Vancouver Canucks,257.0,273.0,82.0
+1997,Calgary Flames,214.0,239.0,82.0
+1997,Los Angeles Kings,214.0,268.0,82.0
+1997,San Jose Sharks,211.0,278.0,82.0
+1997,New Jersey Devils,231.0,182.0,82.0
+1997,Philadelphia Flyers,274.0,217.0,82.0
+1997,Florida Panthers,221.0,201.0,82.0
+1997,New York Rangers,258.0,231.0,82.0
+1997,Washington Capitals,214.0,231.0,82.0
+1997,Tampa Bay Lightning,217.0,247.0,82.0
+1997,New York Islanders,240.0,250.0,82.0
+1997,Buffalo Sabres,237.0,208.0,82.0
+1997,Pittsburgh Penguins,285.0,280.0,82.0
+1997,Ottawa Senators,226.0,234.0,82.0
+1997,Montreal Canadiens,249.0,276.0,82.0
+1997,Hartford Whalers,226.0,256.0,82.0
+1997,Boston Bruins,234.0,300.0,82.0
+1998,Dallas Stars,242.0,167.0,82.0
+1998,Detroit Red Wings,250.0,196.0,82.0
+1998,St. Louis Blues,256.0,204.0,82.0
+1998,Phoenix Coyotes,224.0,227.0,82.0
+1998,Chicago Blackhawks,192.0,199.0,82.0
+1998,Toronto Maple Leafs,194.0,237.0,82.0
+1998,Colorado Avalanche,231.0,205.0,82.0
+1998,Los Angeles Kings,227.0,225.0,82.0
+1998,Edmonton Oilers,215.0,224.0,82.0
+1998,San Jose Sharks,210.0,216.0,82.0
+1998,Calgary Flames,217.0,252.0,82.0
+1998,Mighty Ducks of Anaheim,205.0,261.0,82.0
+1998,Vancouver Canucks,224.0,273.0,82.0
+1998,New Jersey Devils,225.0,166.0,82.0
+1998,Philadelphia Flyers,242.0,193.0,82.0
+1998,Washington Capitals,219.0,202.0,82.0
+1998,New York Islanders,212.0,225.0,82.0
+1998,New York Rangers,197.0,231.0,82.0
+1998,Florida Panthers,203.0,256.0,82.0
+1998,Tampa Bay Lightning,151.0,269.0,82.0
+1998,Pittsburgh Penguins,228.0,188.0,82.0
+1998,Boston Bruins,221.0,194.0,82.0
+1998,Buffalo Sabres,211.0,187.0,82.0
+1998,Montreal Canadiens,235.0,208.0,82.0
+1998,Ottawa Senators,193.0,200.0,82.0
+1998,Carolina Hurricanes,200.0,219.0,82.0
+1999,Detroit Red Wings,245.0,202.0,82.0
+1999,St. Louis Blues,237.0,209.0,82.0
+1999,Chicago Blackhawks,202.0,248.0,82.0
+1999,Nashville Predators,190.0,261.0,82.0
+1999,Colorado Avalanche,239.0,205.0,82.0
+1999,Edmonton Oilers,230.0,226.0,82.0
+1999,Calgary Flames,211.0,234.0,82.0
+1999,Vancouver Canucks,192.0,258.0,82.0
+1999,Dallas Stars,236.0,168.0,82.0
+1999,Phoenix Coyotes,205.0,197.0,82.0
+1999,Mighty Ducks of Anaheim,215.0,206.0,82.0
+1999,San Jose Sharks,196.0,191.0,82.0
+1999,Los Angeles Kings,189.0,222.0,82.0
+1999,New Jersey Devils,248.0,196.0,82.0
+1999,Philadelphia Flyers,231.0,196.0,82.0
+1999,Pittsburgh Penguins,242.0,225.0,82.0
+1999,New York Rangers,217.0,227.0,82.0
+1999,New York Islanders,194.0,244.0,82.0
+1999,Ottawa Senators,239.0,179.0,82.0
+1999,Toronto Maple Leafs,268.0,231.0,82.0
+1999,Boston Bruins,214.0,181.0,82.0
+1999,Buffalo Sabres,207.0,175.0,82.0
+1999,Montreal Canadiens,184.0,209.0,82.0
+1999,Carolina Hurricanes,210.0,202.0,82.0
+1999,Florida Panthers,210.0,228.0,82.0
+1999,Washington Capitals,200.0,218.0,82.0
+1999,Tampa Bay Lightning,179.0,292.0,82.0
+2000,St. Louis Blues,248.0,165.0,82.0
+2000,Detroit Red Wings,278.0,210.0,82.0
+2000,Chicago Blackhawks,242.0,245.0,82.0
+2000,Nashville Predators,199.0,240.0,82.0
+2000,Colorado Avalanche,233.0,201.0,82.0
+2000,Edmonton Oilers,226.0,212.0,82.0
+2000,Vancouver Canucks,227.0,237.0,82.0
+2000,Calgary Flames,211.0,256.0,82.0
+2000,Dallas Stars,211.0,184.0,82.0
+2000,Los Angeles Kings,245.0,228.0,82.0
+2000,Phoenix Coyotes,232.0,228.0,82.0
+2000,San Jose Sharks,225.0,214.0,82.0
+2000,Mighty Ducks of Anaheim,217.0,227.0,82.0
+2000,Philadelphia Flyers,237.0,179.0,82.0
+2000,New Jersey Devils,251.0,203.0,82.0
+2000,Pittsburgh Penguins,241.0,236.0,82.0
+2000,New York Rangers,218.0,246.0,82.0
+2000,New York Islanders,194.0,275.0,82.0
+2000,Toronto Maple Leafs,246.0,222.0,82.0
+2000,Ottawa Senators,244.0,210.0,82.0
+2000,Buffalo Sabres,213.0,204.0,82.0
+2000,Montreal Canadiens,196.0,194.0,82.0
+2000,Boston Bruins,210.0,248.0,82.0
+2000,Washington Capitals,227.0,194.0,82.0
+2000,Florida Panthers,244.0,209.0,82.0
+2000,Carolina Hurricanes,217.0,216.0,82.0
+2000,Tampa Bay Lightning,204.0,310.0,82.0
+2000,Atlanta Thrashers,170.0,313.0,82.0
+2001,Detroit Red Wings,253.0,202.0,82.0
+2001,St. Louis Blues,249.0,195.0,82.0
+2001,Nashville Predators,186.0,200.0,82.0
+2001,Chicago Blackhawks,210.0,246.0,82.0
+2001,Columbus Blue Jackets,190.0,233.0,82.0
+2001,Colorado Avalanche,270.0,192.0,82.0
+2001,Edmonton Oilers,243.0,222.0,82.0
+2001,Vancouver Canucks,239.0,238.0,82.0
+2001,Calgary Flames,197.0,236.0,82.0
+2001,Minnesota Wild,168.0,210.0,82.0
+2001,Dallas Stars,241.0,187.0,82.0
+2001,San Jose Sharks,217.0,192.0,82.0
+2001,Los Angeles Kings,252.0,228.0,82.0
+2001,Phoenix Coyotes,214.0,212.0,82.0
+2001,Mighty Ducks of Anaheim,188.0,245.0,82.0
+2001,New Jersey Devils,295.0,195.0,82.0
+2001,Philadelphia Flyers,240.0,207.0,82.0
+2001,Pittsburgh Penguins,281.0,256.0,82.0
+2001,New York Rangers,250.0,290.0,82.0
+2001,New York Islanders,185.0,268.0,82.0
+2001,Ottawa Senators,274.0,205.0,82.0
+2001,Buffalo Sabres,218.0,184.0,82.0
+2001,Toronto Maple Leafs,232.0,207.0,82.0
+2001,Boston Bruins,227.0,249.0,82.0
+2001,Montreal Canadiens,206.0,232.0,82.0
+2001,Washington Capitals,233.0,211.0,82.0
+2001,Carolina Hurricanes,212.0,225.0,82.0
+2001,Florida Panthers,200.0,246.0,82.0
+2001,Atlanta Thrashers,211.0,289.0,82.0
+2001,Tampa Bay Lightning,201.0,280.0,82.0
+2002,Detroit Red Wings,251.0,187.0,82.0
+2002,St. Louis Blues,227.0,188.0,82.0
+2002,Chicago Blackhawks,216.0,207.0,82.0
+2002,Nashville Predators,196.0,230.0,82.0
+2002,Columbus Blue Jackets,164.0,255.0,82.0
+2002,Colorado Avalanche,212.0,169.0,82.0
+2002,Vancouver Canucks,254.0,211.0,82.0
+2002,Edmonton Oilers,205.0,182.0,82.0
+2002,Calgary Flames,201.0,220.0,82.0
+2002,Minnesota Wild,195.0,238.0,82.0
+2002,San Jose Sharks,248.0,199.0,82.0
+2002,Phoenix Coyotes,228.0,210.0,82.0
+2002,Los Angeles Kings,214.0,190.0,82.0
+2002,Dallas Stars,215.0,213.0,82.0
+2002,Mighty Ducks of Anaheim,175.0,198.0,82.0
+2002,Philadelphia Flyers,234.0,192.0,82.0
+2002,New York Islanders,239.0,220.0,82.0
+2002,New Jersey Devils,205.0,187.0,82.0
+2002,New York Rangers,227.0,258.0,82.0
+2002,Pittsburgh Penguins,198.0,249.0,82.0
+2002,Boston Bruins,236.0,201.0,82.0
+2002,Toronto Maple Leafs,249.0,207.0,82.0
+2002,Ottawa Senators,243.0,208.0,82.0
+2002,Montreal Canadiens,207.0,209.0,82.0
+2002,Buffalo Sabres,213.0,200.0,82.0
+2002,Carolina Hurricanes,217.0,217.0,82.0
+2002,Washington Capitals,228.0,240.0,82.0
+2002,Tampa Bay Lightning,178.0,219.0,82.0
+2002,Florida Panthers,180.0,250.0,82.0
+2002,Atlanta Thrashers,187.0,288.0,82.0
+2003,Detroit Red Wings,269.0,203.0,82.0
+2003,St. Louis Blues,253.0,222.0,82.0
+2003,Chicago Blackhawks,207.0,226.0,82.0
+2003,Nashville Predators,183.0,206.0,82.0
+2003,Columbus Blue Jackets,213.0,263.0,82.0
+2003,Colorado Avalanche,251.0,194.0,82.0
+2003,Vancouver Canucks,264.0,208.0,82.0
+2003,Minnesota Wild,198.0,178.0,82.0
+2003,Edmonton Oilers,231.0,230.0,82.0
+2003,Calgary Flames,186.0,228.0,82.0
+2003,Dallas Stars,245.0,169.0,82.0
+2003,Mighty Ducks of Anaheim,203.0,193.0,82.0
+2003,Los Angeles Kings,203.0,221.0,82.0
+2003,Phoenix Coyotes,204.0,230.0,82.0
+2003,San Jose Sharks,214.0,239.0,82.0
+2003,New Jersey Devils,216.0,166.0,82.0
+2003,Philadelphia Flyers,211.0,166.0,82.0
+2003,New York Islanders,224.0,231.0,82.0
+2003,New York Rangers,210.0,231.0,82.0
+2003,Pittsburgh Penguins,189.0,255.0,82.0
+2003,Ottawa Senators,263.0,182.0,82.0
+2003,Toronto Maple Leafs,236.0,208.0,82.0
+2003,Boston Bruins,245.0,237.0,82.0
+2003,Montreal Canadiens,206.0,234.0,82.0
+2003,Buffalo Sabres,190.0,219.0,82.0
+2003,Tampa Bay Lightning,219.0,210.0,82.0
+2003,Washington Capitals,224.0,220.0,82.0
+2003,Atlanta Thrashers,226.0,284.0,82.0
+2003,Florida Panthers,176.0,237.0,82.0
+2003,Carolina Hurricanes,171.0,240.0,82.0
+2004,Detroit Red Wings,255.0,189.0,82.0
+2004,St. Louis Blues,191.0,198.0,82.0
+2004,Nashville Predators,216.0,217.0,82.0
+2004,Columbus Blue Jackets,177.0,238.0,82.0
+2004,Chicago Blackhawks,188.0,259.0,82.0
+2004,Vancouver Canucks,235.0,194.0,82.0
+2004,Colorado Avalanche,236.0,198.0,82.0
+2004,Calgary Flames,200.0,176.0,82.0
+2004,Edmonton Oilers,221.0,208.0,82.0
+2004,Minnesota Wild,188.0,183.0,82.0
+2004,San Jose Sharks,219.0,183.0,82.0
+2004,Dallas Stars,194.0,175.0,82.0
+2004,Los Angeles Kings,205.0,217.0,82.0
+2004,Mighty Ducks of Anaheim,184.0,213.0,82.0
+2004,Phoenix Coyotes,188.0,245.0,82.0
+2004,Philadelphia Flyers,229.0,186.0,82.0
+2004,New Jersey Devils,213.0,164.0,82.0
+2004,New York Islanders,237.0,210.0,82.0
+2004,New York Rangers,206.0,250.0,82.0
+2004,Pittsburgh Penguins,190.0,303.0,82.0
+2004,Boston Bruins,209.0,188.0,82.0
+2004,Toronto Maple Leafs,242.0,204.0,82.0
+2004,Ottawa Senators,262.0,189.0,82.0
+2004,Montreal Canadiens,208.0,192.0,82.0
+2004,Buffalo Sabres,220.0,221.0,82.0
+2004,Tampa Bay Lightning,245.0,192.0,82.0
+2004,Atlanta Thrashers,214.0,243.0,82.0
+2004,Carolina Hurricanes,172.0,209.0,82.0
+2004,Florida Panthers,188.0,221.0,82.0
+2004,Washington Capitals,186.0,253.0,82.0
+2006,Detroit Red Wings,305.0,209.0,82.0
+2006,Nashville Predators,259.0,227.0,82.0
+2006,Columbus Blue Jackets,223.0,279.0,82.0
+2006,Chicago Blackhawks,211.0,285.0,82.0
+2006,St. Louis Blues,197.0,292.0,82.0
+2006,Calgary Flames,218.0,200.0,82.0
+2006,Colorado Avalanche,283.0,257.0,82.0
+2006,Edmonton Oilers,256.0,251.0,82.0
+2006,Vancouver Canucks,256.0,255.0,82.0
+2006,Minnesota Wild,231.0,215.0,82.0
+2006,Dallas Stars,265.0,218.0,82.0
+2006,San Jose Sharks,266.0,242.0,82.0
+2006,Mighty Ducks of Anaheim,254.0,229.0,82.0
+2006,Los Angeles Kings,249.0,270.0,82.0
+2006,Phoenix Coyotes,246.0,271.0,82.0
+2006,New Jersey Devils,242.0,229.0,82.0
+2006,Philadelphia Flyers,267.0,259.0,82.0
+2006,New York Rangers,257.0,215.0,82.0
+2006,New York Islanders,230.0,278.0,82.0
+2006,Pittsburgh Penguins,244.0,316.0,82.0
+2006,Ottawa Senators,314.0,211.0,82.0
+2006,Buffalo Sabres,281.0,239.0,82.0
+2006,Montreal Canadiens,243.0,247.0,82.0
+2006,Toronto Maple Leafs,257.0,270.0,82.0
+2006,Boston Bruins,230.0,266.0,82.0
+2006,Carolina Hurricanes,294.0,260.0,82.0
+2006,Tampa Bay Lightning,252.0,260.0,82.0
+2006,Atlanta Thrashers,281.0,275.0,82.0
+2006,Florida Panthers,240.0,257.0,82.0
+2006,Washington Capitals,237.0,306.0,82.0
+2007,Detroit Red Wings,254.0,199.0,82.0
+2007,Nashville Predators,272.0,212.0,82.0
+2007,St. Louis Blues,214.0,254.0,82.0
+2007,Columbus Blue Jackets,201.0,249.0,82.0
+2007,Chicago Blackhawks,201.0,258.0,82.0
+2007,Vancouver Canucks,222.0,201.0,82.0
+2007,Minnesota Wild,235.0,191.0,82.0
+2007,Calgary Flames,258.0,226.0,82.0
+2007,Colorado Avalanche,272.0,251.0,82.0
+2007,Edmonton Oilers,195.0,248.0,82.0
+2007,Anaheim Ducks,258.0,208.0,82.0
+2007,San Jose Sharks,258.0,199.0,82.0
+2007,Dallas Stars,226.0,197.0,82.0
+2007,Los Angeles Kings,227.0,283.0,82.0
+2007,Phoenix Coyotes,216.0,284.0,82.0
+2007,New Jersey Devils,216.0,201.0,82.0
+2007,Pittsburgh Penguins,277.0,246.0,82.0
+2007,New York Rangers,242.0,216.0,82.0
+2007,New York Islanders,248.0,240.0,82.0
+2007,Philadelphia Flyers,214.0,303.0,82.0
+2007,Buffalo Sabres,308.0,242.0,82.0
+2007,Ottawa Senators,288.0,222.0,82.0
+2007,Toronto Maple Leafs,258.0,269.0,82.0
+2007,Montreal Canadiens,245.0,256.0,82.0
+2007,Boston Bruins,219.0,289.0,82.0
+2007,Atlanta Thrashers,246.0,245.0,82.0
+2007,Tampa Bay Lightning,253.0,261.0,82.0
+2007,Carolina Hurricanes,241.0,253.0,82.0
+2007,Florida Panthers,247.0,257.0,82.0
+2007,Washington Capitals,235.0,286.0,82.0
+2008,Detroit Red Wings,257.0,184.0,82.0
+2008,Nashville Predators,230.0,229.0,82.0
+2008,Chicago Blackhawks,239.0,235.0,82.0
+2008,Columbus Blue Jackets,193.0,218.0,82.0
+2008,St. Louis Blues,205.0,237.0,82.0
+2008,Minnesota Wild,223.0,218.0,82.0
+2008,Colorado Avalanche,231.0,219.0,82.0
+2008,Calgary Flames,229.0,227.0,82.0
+2008,Edmonton Oilers,235.0,251.0,82.0
+2008,Vancouver Canucks,213.0,215.0,82.0
+2008,San Jose Sharks,222.0,193.0,82.0
+2008,Anaheim Ducks,205.0,191.0,82.0
+2008,Dallas Stars,242.0,207.0,82.0
+2008,Phoenix Coyotes,214.0,231.0,82.0
+2008,Los Angeles Kings,231.0,266.0,82.0
+2008,Pittsburgh Penguins,247.0,216.0,82.0
+2008,New Jersey Devils,206.0,197.0,82.0
+2008,New York Rangers,213.0,199.0,82.0
+2008,Philadelphia Flyers,248.0,233.0,82.0
+2008,New York Islanders,194.0,243.0,82.0
+2008,Montreal Canadiens,262.0,222.0,82.0
+2008,Ottawa Senators,261.0,247.0,82.0
+2008,Boston Bruins,212.0,222.0,82.0
+2008,Buffalo Sabres,255.0,242.0,82.0
+2008,Toronto Maple Leafs,231.0,260.0,82.0
+2008,Washington Capitals,242.0,231.0,82.0
+2008,Carolina Hurricanes,252.0,249.0,82.0
+2008,Florida Panthers,216.0,226.0,82.0
+2008,Atlanta Thrashers,216.0,272.0,82.0
+2008,Tampa Bay Lightning,223.0,267.0,82.0
+2009,Detroit Red Wings,295.0,244.0,82.0
+2009,Chicago Blackhawks,264.0,216.0,82.0
+2009,St. Louis Blues,233.0,233.0,82.0
+2009,Columbus Blue Jackets,226.0,230.0,82.0
+2009,Nashville Predators,213.0,233.0,82.0
+2009,Vancouver Canucks,246.0,220.0,82.0
+2009,Calgary Flames,254.0,248.0,82.0
+2009,Minnesota Wild,219.0,200.0,82.0
+2009,Edmonton Oilers,234.0,248.0,82.0
+2009,Colorado Avalanche,199.0,257.0,82.0
+2009,San Jose Sharks,257.0,204.0,82.0
+2009,Anaheim Ducks,245.0,238.0,82.0
+2009,Dallas Stars,230.0,257.0,82.0
+2009,Phoenix Coyotes,208.0,252.0,82.0
+2009,Los Angeles Kings,207.0,234.0,82.0
+2009,New Jersey Devils,244.0,209.0,82.0
+2009,Pittsburgh Penguins,264.0,239.0,82.0
+2009,Philadelphia Flyers,264.0,238.0,82.0
+2009,New York Rangers,210.0,218.0,82.0
+2009,New York Islanders,201.0,279.0,82.0
+2009,Boston Bruins,274.0,196.0,82.0
+2009,Montreal Canadiens,249.0,247.0,82.0
+2009,Buffalo Sabres,250.0,234.0,82.0
+2009,Ottawa Senators,217.0,237.0,82.0
+2009,Toronto Maple Leafs,250.0,293.0,82.0
+2009,Washington Capitals,272.0,245.0,82.0
+2009,Carolina Hurricanes,239.0,226.0,82.0
+2009,Florida Panthers,234.0,231.0,82.0
+2009,Atlanta Thrashers,257.0,280.0,82.0
+2009,Tampa Bay Lightning,210.0,279.0,82.0
+2010,Chicago Blackhawks,271.0,209.0,82.0
+2010,Detroit Red Wings,229.0,216.0,82.0
+2010,Nashville Predators,225.0,225.0,82.0
+2010,St. Louis Blues,225.0,223.0,82.0
+2010,Columbus Blue Jackets,216.0,259.0,82.0
+2010,Vancouver Canucks,272.0,222.0,82.0
+2010,Colorado Avalanche,244.0,233.0,82.0
+2010,Calgary Flames,204.0,210.0,82.0
+2010,Minnesota Wild,219.0,246.0,82.0
+2010,Edmonton Oilers,214.0,284.0,82.0
+2010,San Jose Sharks,264.0,215.0,82.0
+2010,Phoenix Coyotes,225.0,202.0,82.0
+2010,Los Angeles Kings,241.0,219.0,82.0
+2010,Anaheim Ducks,238.0,251.0,82.0
+2010,Dallas Stars,237.0,254.0,82.0
+2010,New Jersey Devils,222.0,191.0,82.0
+2010,Pittsburgh Penguins,257.0,237.0,82.0
+2010,Philadelphia Flyers,236.0,225.0,82.0
+2010,New York Rangers,222.0,218.0,82.0
+2010,New York Islanders,222.0,264.0,82.0
+2010,Buffalo Sabres,235.0,207.0,82.0
+2010,Ottawa Senators,225.0,238.0,82.0
+2010,Boston Bruins,206.0,200.0,82.0
+2010,Montreal Canadiens,217.0,223.0,82.0
+2010,Toronto Maple Leafs,214.0,267.0,82.0
+2010,Washington Capitals,318.0,233.0,82.0
+2010,Atlanta Thrashers,234.0,256.0,82.0
+2010,Carolina Hurricanes,230.0,256.0,82.0
+2010,Tampa Bay Lightning,217.0,260.0,82.0
+2010,Florida Panthers,208.0,244.0,82.0
+2011,Detroit Red Wings,261.0,241.0,82.0
+2011,Nashville Predators,219.0,194.0,82.0
+2011,Chicago Blackhawks,258.0,225.0,82.0
+2011,St. Louis Blues,240.0,234.0,82.0
+2011,Columbus Blue Jackets,215.0,258.0,82.0
+2011,Vancouver Canucks,262.0,185.0,82.0
+2011,Calgary Flames,250.0,237.0,82.0
+2011,Minnesota Wild,206.0,233.0,82.0
+2011,Colorado Avalanche,227.0,288.0,82.0
+2011,Edmonton Oilers,193.0,269.0,82.0
+2011,San Jose Sharks,248.0,213.0,82.0
+2011,Anaheim Ducks,239.0,235.0,82.0
+2011,Phoenix Coyotes,231.0,226.0,82.0
+2011,Los Angeles Kings,219.0,198.0,82.0
+2011,Dallas Stars,227.0,233.0,82.0
+2011,Philadelphia Flyers,259.0,223.0,82.0
+2011,Pittsburgh Penguins,238.0,199.0,82.0
+2011,New York Rangers,233.0,198.0,82.0
+2011,New Jersey Devils,174.0,209.0,82.0
+2011,New York Islanders,229.0,264.0,82.0
+2011,Boston Bruins,246.0,195.0,82.0
+2011,Montreal Canadiens,216.0,209.0,82.0
+2011,Buffalo Sabres,245.0,229.0,82.0
+2011,Toronto Maple Leafs,218.0,251.0,82.0
+2011,Ottawa Senators,192.0,250.0,82.0
+2011,Washington Capitals,224.0,197.0,82.0
+2011,Tampa Bay Lightning,247.0,240.0,82.0
+2011,Carolina Hurricanes,236.0,239.0,82.0
+2011,Atlanta Thrashers,223.0,269.0,82.0
+2011,Florida Panthers,195.0,229.0,82.0
+2012,St. Louis Blues,210.0,165.0,82.0
+2012,Nashville Predators,237.0,210.0,82.0
+2012,Detroit Red Wings,248.0,203.0,82.0
+2012,Chicago Blackhawks,248.0,238.0,82.0
+2012,Columbus Blue Jackets,202.0,262.0,82.0
+2012,Vancouver Canucks,249.0,198.0,82.0
+2012,Calgary Flames,202.0,226.0,82.0
+2012,Colorado Avalanche,208.0,220.0,82.0
+2012,Minnesota Wild,177.0,226.0,82.0
+2012,Edmonton Oilers,212.0,239.0,82.0
+2012,Phoenix Coyotes,216.0,204.0,82.0
+2012,San Jose Sharks,228.0,210.0,82.0
+2012,Los Angeles Kings,194.0,179.0,82.0
+2012,Dallas Stars,211.0,222.0,82.0
+2012,Anaheim Ducks,204.0,231.0,82.0
+2012,New York Rangers,226.0,187.0,82.0
+2012,Pittsburgh Penguins,282.0,221.0,82.0
+2012,Philadelphia Flyers,264.0,232.0,82.0
+2012,New Jersey Devils,228.0,209.0,82.0
+2012,New York Islanders,203.0,255.0,82.0
+2012,Boston Bruins,269.0,202.0,82.0
+2012,Ottawa Senators,249.0,240.0,82.0
+2012,Buffalo Sabres,218.0,230.0,82.0
+2012,Toronto Maple Leafs,231.0,264.0,82.0
+2012,Montreal Canadiens,212.0,226.0,82.0
+2012,Florida Panthers,203.0,227.0,82.0
+2012,Washington Capitals,222.0,230.0,82.0
+2012,Tampa Bay Lightning,235.0,281.0,82.0
+2012,Winnipeg Jets,225.0,246.0,82.0
+2012,Carolina Hurricanes,213.0,243.0,82.0
+2013,Chicago Blackhawks,155.0,102.0,48.0
+2013,St. Louis Blues,129.0,115.0,48.0
+2013,Detroit Red Wings,124.0,115.0,48.0
+2013,Columbus Blue Jackets,120.0,119.0,48.0
+2013,Nashville Predators,111.0,139.0,48.0
+2013,Vancouver Canucks,127.0,121.0,48.0
+2013,Minnesota Wild,122.0,127.0,48.0
+2013,Edmonton Oilers,125.0,134.0,48.0
+2013,Calgary Flames,128.0,160.0,48.0
+2013,Colorado Avalanche,116.0,152.0,48.0
+2013,Anaheim Ducks,140.0,118.0,48.0
+2013,Los Angeles Kings,133.0,118.0,48.0
+2013,San Jose Sharks,124.0,116.0,48.0
+2013,Phoenix Coyotes,125.0,131.0,48.0
+2013,Dallas Stars,130.0,142.0,48.0
+2013,Pittsburgh Penguins,165.0,119.0,48.0
+2013,New York Rangers,130.0,112.0,48.0
+2013,New York Islanders,139.0,139.0,48.0
+2013,Philadelphia Flyers,133.0,141.0,48.0
+2013,New Jersey Devils,112.0,129.0,48.0
+2013,Montreal Canadiens,149.0,126.0,48.0
+2013,Boston Bruins,131.0,109.0,48.0
+2013,Toronto Maple Leafs,145.0,133.0,48.0
+2013,Ottawa Senators,116.0,104.0,48.0
+2013,Buffalo Sabres,125.0,143.0,48.0
+2013,Washington Capitals,149.0,130.0,48.0
+2013,Winnipeg Jets,128.0,144.0,48.0
+2013,Carolina Hurricanes,128.0,160.0,48.0
+2013,Tampa Bay Lightning,148.0,150.0,48.0
+2013,Florida Panthers,112.0,171.0,48.0
+2014,Colorado Avalanche,250.0,220.0,82.0
+2014,St. Louis Blues,248.0,191.0,82.0
+2014,Chicago Blackhawks,267.0,220.0,82.0
+2014,Minnesota Wild,207.0,206.0,82.0
+2014,Dallas Stars,235.0,228.0,82.0
+2014,Nashville Predators,216.0,242.0,82.0
+2014,Winnipeg Jets,227.0,237.0,82.0
+2014,Anaheim Ducks,266.0,209.0,82.0
+2014,San Jose Sharks,249.0,200.0,82.0
+2014,Los Angeles Kings,206.0,174.0,82.0
+2014,Phoenix Coyotes,216.0,231.0,82.0
+2014,Vancouver Canucks,196.0,223.0,82.0
+2014,Calgary Flames,209.0,241.0,82.0
+2014,Edmonton Oilers,203.0,270.0,82.0
+2014,Boston Bruins,261.0,177.0,82.0
+2014,Tampa Bay Lightning,240.0,215.0,82.0
+2014,Montreal Canadiens,215.0,204.0,82.0
+2014,Detroit Red Wings,222.0,230.0,82.0
+2014,Ottawa Senators,236.0,265.0,82.0
+2014,Toronto Maple Leafs,231.0,256.0,82.0
+2014,Florida Panthers,196.0,268.0,82.0
+2014,Buffalo Sabres,157.0,248.0,82.0
+2014,Pittsburgh Penguins,249.0,207.0,82.0
+2014,New York Rangers,218.0,193.0,82.0
+2014,Philadelphia Flyers,236.0,235.0,82.0
+2014,Columbus Blue Jackets,231.0,216.0,82.0
+2014,Washington Capitals,235.0,240.0,82.0
+2014,New Jersey Devils,197.0,208.0,82.0
+2014,Carolina Hurricanes,207.0,230.0,82.0
+2014,New York Islanders,225.0,267.0,82.0
+2015,St. Louis Blues,248.0,201.0,82.0
+2015,Nashville Predators,232.0,208.0,82.0
+2015,Chicago Blackhawks,229.0,189.0,82.0
+2015,Minnesota Wild,231.0,201.0,82.0
+2015,Winnipeg Jets,230.0,210.0,82.0
+2015,Dallas Stars,261.0,260.0,82.0
+2015,Colorado Avalanche,219.0,227.0,82.0
+2015,Anaheim Ducks,236.0,226.0,82.0
+2015,Vancouver Canucks,242.0,222.0,82.0
+2015,Calgary Flames,241.0,216.0,82.0
+2015,Los Angeles Kings,220.0,205.0,82.0
+2015,San Jose Sharks,228.0,232.0,82.0
+2015,Edmonton Oilers,198.0,283.0,82.0
+2015,Arizona Coyotes,170.0,272.0,82.0
+2015,Montreal Canadiens,221.0,189.0,82.0
+2015,Tampa Bay Lightning,262.0,211.0,82.0
+2015,Detroit Red Wings,235.0,221.0,82.0
+2015,Ottawa Senators,238.0,215.0,82.0
+2015,Boston Bruins,213.0,211.0,82.0
+2015,Florida Panthers,206.0,223.0,82.0
+2015,Toronto Maple Leafs,211.0,262.0,82.0
+2015,Buffalo Sabres,161.0,274.0,82.0
+2015,New York Rangers,252.0,192.0,82.0
+2015,Washington Capitals,242.0,203.0,82.0
+2015,New York Islanders,252.0,230.0,82.0
+2015,Pittsburgh Penguins,221.0,210.0,82.0
+2015,Columbus Blue Jackets,236.0,250.0,82.0
+2015,Philadelphia Flyers,215.0,234.0,82.0
+2015,New Jersey Devils,181.0,216.0,82.0
+2015,Carolina Hurricanes,188.0,226.0,82.0
+2016,Dallas Stars,267.0,230.0,82.0
+2016,St. Louis Blues,224.0,201.0,82.0
+2016,Chicago Blackhawks,235.0,209.0,82.0
+2016,Nashville Predators,228.0,215.0,82.0
+2016,Minnesota Wild,216.0,206.0,82.0
+2016,Colorado Avalanche,216.0,240.0,82.0
+2016,Winnipeg Jets,215.0,239.0,82.0
+2016,Anaheim Ducks,218.0,192.0,82.0
+2016,Los Angeles Kings,225.0,195.0,82.0
+2016,San Jose Sharks,241.0,210.0,82.0
+2016,Arizona Coyotes,209.0,245.0,82.0
+2016,Calgary Flames,231.0,260.0,82.0
+2016,Vancouver Canucks,191.0,243.0,82.0
+2016,Edmonton Oilers,203.0,245.0,82.0
+2016,Florida Panthers,239.0,203.0,82.0
+2016,Tampa Bay Lightning,227.0,201.0,82.0
+2016,Detroit Red Wings,211.0,224.0,82.0
+2016,Boston Bruins,240.0,230.0,82.0
+2016,Ottawa Senators,236.0,247.0,82.0
+2016,Montreal Canadiens,221.0,236.0,82.0
+2016,Buffalo Sabres,201.0,222.0,82.0
+2016,Toronto Maple Leafs,198.0,246.0,82.0
+2016,Washington Capitals,252.0,193.0,82.0
+2016,Pittsburgh Penguins,245.0,203.0,82.0
+2016,New York Rangers,236.0,217.0,82.0
+2016,New York Islanders,232.0,216.0,82.0
+2016,Philadelphia Flyers,214.0,218.0,82.0
+2016,Carolina Hurricanes,198.0,226.0,82.0
+2016,New Jersey Devils,184.0,208.0,82.0
+2016,Columbus Blue Jackets,219.0,252.0,82.0
+2017,Chicago Blackhawks,244.0,213.0,82.0
+2017,Minnesota Wild,266.0,208.0,82.0
+2017,St. Louis Blues,235.0,218.0,82.0
+2017,Nashville Predators,240.0,224.0,82.0
+2017,Winnipeg Jets,249.0,256.0,82.0
+2017,Dallas Stars,223.0,262.0,82.0
+2017,Colorado Avalanche,166.0,278.0,82.0
+2017,Anaheim Ducks,223.0,200.0,82.0
+2017,Edmonton Oilers,247.0,212.0,82.0
+2017,San Jose Sharks,221.0,201.0,82.0
+2017,Calgary Flames,226.0,221.0,82.0
+2017,Los Angeles Kings,201.0,205.0,82.0
+2017,Arizona Coyotes,197.0,260.0,82.0
+2017,Vancouver Canucks,182.0,243.0,82.0
+2017,Montreal Canadiens,226.0,200.0,82.0
+2017,Ottawa Senators,212.0,214.0,82.0
+2017,Boston Bruins,234.0,212.0,82.0
+2017,Toronto Maple Leafs,251.0,242.0,82.0
+2017,Tampa Bay Lightning,234.0,227.0,82.0
+2017,Florida Panthers,210.0,237.0,82.0
+2017,Detroit Red Wings,207.0,244.0,82.0
+2017,Buffalo Sabres,201.0,237.0,82.0
+2017,Washington Capitals,263.0,182.0,82.0
+2017,Pittsburgh Penguins,282.0,234.0,82.0
+2017,Columbus Blue Jackets,249.0,195.0,82.0
+2017,New York Rangers,256.0,220.0,82.0
+2017,New York Islanders,241.0,242.0,82.0
+2017,Philadelphia Flyers,219.0,236.0,82.0
+2017,Carolina Hurricanes,215.0,236.0,82.0
+2017,New Jersey Devils,183.0,244.0,82.0
+2018,Nashville Predators,267.0,211.0,82.0
+2018,Winnipeg Jets,277.0,218.0,82.0
+2018,Minnesota Wild,253.0,232.0,82.0
+2018,Colorado Avalanche,257.0,237.0,82.0
+2018,St. Louis Blues,226.0,222.0,82.0
+2018,Dallas Stars,235.0,225.0,82.0
+2018,Chicago Blackhawks,229.0,256.0,82.0
+2018,Vegas Golden Knights,272.0,228.0,82.0
+2018,Anaheim Ducks,235.0,216.0,82.0
+2018,San Jose Sharks,252.0,229.0,82.0
+2018,Los Angeles Kings,239.0,203.0,82.0
+2018,Calgary Flames,218.0,248.0,82.0
+2018,Edmonton Oilers,234.0,263.0,82.0
+2018,Vancouver Canucks,218.0,264.0,82.0
+2018,Arizona Coyotes,208.0,256.0,82.0
+2018,Tampa Bay Lightning,296.0,236.0,82.0
+2018,Boston Bruins,270.0,214.0,82.0
+2018,Toronto Maple Leafs,277.0,232.0,82.0
+2018,Florida Panthers,248.0,246.0,82.0
+2018,Detroit Red Wings,217.0,255.0,82.0
+2018,Montreal Canadiens,209.0,264.0,82.0
+2018,Ottawa Senators,221.0,291.0,82.0
+2018,Buffalo Sabres,199.0,280.0,82.0
+2018,Washington Capitals,259.0,239.0,82.0
+2018,Pittsburgh Penguins,272.0,250.0,82.0
+2018,Philadelphia Flyers,251.0,243.0,82.0
+2018,Columbus Blue Jackets,242.0,230.0,82.0
+2018,New Jersey Devils,248.0,244.0,82.0
+2018,Carolina Hurricanes,228.0,256.0,82.0
+2018,New York Islanders,264.0,296.0,82.0
+2018,New York Rangers,231.0,268.0,82.0
+2019,Nashville Predators,240.0,214.0,82.0
+2019,Winnipeg Jets,272.0,244.0,82.0
+2019,St. Louis Blues,247.0,223.0,82.0
+2019,Dallas Stars,210.0,202.0,82.0
+2019,Colorado Avalanche,260.0,246.0,82.0
+2019,Chicago Blackhawks,270.0,292.0,82.0
+2019,Minnesota Wild,211.0,237.0,82.0
+2019,Calgary Flames,289.0,227.0,82.0
+2019,San Jose Sharks,289.0,261.0,82.0
+2019,Vegas Golden Knights,249.0,230.0,82.0
+2019,Arizona Coyotes,213.0,223.0,82.0
+2019,Vancouver Canucks,225.0,254.0,82.0
+2019,Anaheim Ducks,199.0,251.0,82.0
+2019,Edmonton Oilers,232.0,274.0,82.0
+2019,Los Angeles Kings,202.0,263.0,82.0
+2019,Tampa Bay Lightning,325.0,222.0,82.0
+2019,Boston Bruins,259.0,215.0,82.0
+2019,Toronto Maple Leafs,286.0,251.0,82.0
+2019,Montreal Canadiens,249.0,236.0,82.0
+2019,Florida Panthers,267.0,280.0,82.0
+2019,Buffalo Sabres,226.0,271.0,82.0
+2019,Detroit Red Wings,227.0,277.0,82.0
+2019,Ottawa Senators,242.0,302.0,82.0
+2019,Washington Capitals,278.0,249.0,82.0
+2019,New York Islanders,228.0,196.0,82.0
+2019,Pittsburgh Penguins,273.0,241.0,82.0
+2019,Carolina Hurricanes,245.0,223.0,82.0
+2019,Columbus Blue Jackets,258.0,232.0,82.0
+2019,Philadelphia Flyers,244.0,281.0,82.0
+2019,New York Rangers,227.0,272.0,82.0
+2019,New Jersey Devils,222.0,275.0,82.0
