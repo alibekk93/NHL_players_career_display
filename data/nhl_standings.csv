@@ -726,3 +726,162 @@ season,team,GF,GA,GP
 2019,Philadelphia Flyers,244.0,281.0,82.0
 2019,New York Rangers,227.0,272.0,82.0
 2019,New Jersey Devils,222.0,275.0,82.0
+2020,St. Louis Blues,225.0,193.0,71.0
+2020,Colorado Avalanche,237.0,191.0,70.0
+2020,Dallas Stars,180.0,177.0,69.0
+2020,Winnipeg Jets,216.0,203.0,71.0
+2020,Nashville Predators,215.0,217.0,69.0
+2020,Minnesota Wild,220.0,220.0,69.0
+2020,Chicago Blackhawks,212.0,218.0,70.0
+2020,Vegas Golden Knights,227.0,211.0,71.0
+2020,Edmonton Oilers,225.0,217.0,71.0
+2020,Calgary Flames,210.0,215.0,70.0
+2020,Vancouver Canucks,228.0,217.0,69.0
+2020,Arizona Coyotes,195.0,187.0,70.0
+2020,Anaheim Ducks,187.0,226.0,71.0
+2020,Los Angeles Kings,178.0,212.0,70.0
+2020,San Jose Sharks,182.0,226.0,70.0
+2020,Boston Bruins,227.0,174.0,70.0
+2020,Tampa Bay Lightning,245.0,195.0,70.0
+2020,Toronto Maple Leafs,238.0,227.0,70.0
+2020,Florida Panthers,231.0,228.0,69.0
+2020,Montreal Canadiens,212.0,221.0,71.0
+2020,Buffalo Sabres,195.0,217.0,69.0
+2020,Ottawa Senators,191.0,243.0,71.0
+2020,Detroit Red Wings,145.0,267.0,71.0
+2020,Washington Capitals,240.0,215.0,69.0
+2020,Philadelphia Flyers,232.0,196.0,69.0
+2020,Pittsburgh Penguins,224.0,196.0,69.0
+2020,Carolina Hurricanes,222.0,193.0,68.0
+2020,Columbus Blue Jackets,180.0,187.0,70.0
+2020,New York Islanders,192.0,193.0,68.0
+2020,New York Rangers,234.0,222.0,70.0
+2020,New Jersey Devils,189.0,230.0,69.0
+2022,Colorado Avalanche,312.0,234.0,82.0
+2022,Minnesota Wild,310.0,253.0,82.0
+2022,St. Louis Blues,311.0,242.0,82.0
+2022,Dallas Stars,238.0,246.0,82.0
+2022,Nashville Predators,266.0,252.0,82.0
+2022,Winnipeg Jets,252.0,257.0,82.0
+2022,Chicago Blackhawks,219.0,291.0,82.0
+2022,Arizona Coyotes,207.0,313.0,82.0
+2022,Calgary Flames,293.0,208.0,82.0
+2022,Edmonton Oilers,290.0,252.0,82.0
+2022,Los Angeles Kings,239.0,236.0,82.0
+2022,Vegas Golden Knights,266.0,248.0,82.0
+2022,Vancouver Canucks,249.0,236.0,82.0
+2022,San Jose Sharks,214.0,264.0,82.0
+2022,Anaheim Ducks,232.0,271.0,82.0
+2022,Seattle Kraken,216.0,285.0,82.0
+2022,Florida Panthers,340.0,246.0,82.0
+2022,Toronto Maple Leafs,315.0,253.0,82.0
+2022,Tampa Bay Lightning,287.0,233.0,82.0
+2022,Boston Bruins,255.0,220.0,82.0
+2022,Buffalo Sabres,232.0,290.0,82.0
+2022,Detroit Red Wings,230.0,312.0,82.0
+2022,Ottawa Senators,227.0,266.0,82.0
+2022,Montreal Canadiens,221.0,319.0,82.0
+2022,Carolina Hurricanes,278.0,202.0,82.0
+2022,New York Rangers,254.0,207.0,82.0
+2022,Pittsburgh Penguins,272.0,229.0,82.0
+2022,Washington Capitals,275.0,245.0,82.0
+2022,New York Islanders,231.0,237.0,82.0
+2022,Columbus Blue Jackets,262.0,300.0,82.0
+2022,New Jersey Devils,248.0,307.0,82.0
+2022,Philadelphia Flyers,211.0,298.0,82.0
+2023,Colorado Avalanche,280.0,226.0,82.0
+2023,Dallas Stars,285.0,218.0,82.0
+2023,Minnesota Wild,246.0,225.0,82.0
+2023,Winnipeg Jets,247.0,225.0,82.0
+2023,Nashville Predators,229.0,238.0,82.0
+2023,St. Louis Blues,263.0,301.0,82.0
+2023,Arizona Coyotes,228.0,299.0,82.0
+2023,Chicago Blackhawks,204.0,301.0,82.0
+2023,Vegas Golden Knights,272.0,229.0,82.0
+2023,Edmonton Oilers,325.0,260.0,82.0
+2023,Los Angeles Kings,280.0,257.0,82.0
+2023,Seattle Kraken,289.0,256.0,82.0
+2023,Calgary Flames,260.0,252.0,82.0
+2023,Vancouver Canucks,276.0,298.0,82.0
+2023,San Jose Sharks,234.0,321.0,82.0
+2023,Anaheim Ducks,209.0,338.0,82.0
+2023,Boston Bruins,305.0,177.0,82.0
+2023,Toronto Maple Leafs,279.0,222.0,82.0
+2023,Tampa Bay Lightning,283.0,254.0,82.0
+2023,Florida Panthers,290.0,273.0,82.0
+2023,Buffalo Sabres,296.0,300.0,82.0
+2023,Ottawa Senators,261.0,271.0,82.0
+2023,Detroit Red Wings,240.0,279.0,82.0
+2023,Montreal Canadiens,232.0,307.0,82.0
+2023,Carolina Hurricanes,266.0,213.0,82.0
+2023,New Jersey Devils,291.0,226.0,82.0
+2023,New York Rangers,277.0,219.0,82.0
+2023,New York Islanders,243.0,222.0,82.0
+2023,Pittsburgh Penguins,262.0,264.0,82.0
+2023,Washington Capitals,255.0,265.0,82.0
+2023,Philadelphia Flyers,222.0,277.0,82.0
+2023,Columbus Blue Jackets,214.0,330.0,82.0
+2024,Dallas Stars,298.0,234.0,82.0
+2024,Winnipeg Jets,259.0,199.0,82.0
+2024,Colorado Avalanche,304.0,254.0,82.0
+2024,Nashville Predators,269.0,248.0,82.0
+2024,St. Louis Blues,239.0,250.0,82.0
+2024,Minnesota Wild,251.0,263.0,82.0
+2024,Arizona Coyotes,256.0,274.0,82.0
+2024,Chicago Blackhawks,179.0,290.0,82.0
+2024,Vancouver Canucks,279.0,223.0,82.0
+2024,Edmonton Oilers,294.0,237.0,82.0
+2024,Los Angeles Kings,256.0,215.0,82.0
+2024,Vegas Golden Knights,267.0,245.0,82.0
+2024,Calgary Flames,253.0,271.0,82.0
+2024,Seattle Kraken,217.0,236.0,82.0
+2024,Anaheim Ducks,204.0,295.0,82.0
+2024,San Jose Sharks,181.0,331.0,82.0
+2024,Florida Panthers,268.0,200.0,82.0
+2024,Boston Bruins,267.0,224.0,82.0
+2024,Toronto Maple Leafs,303.0,263.0,82.0
+2024,Tampa Bay Lightning,291.0,268.0,82.0
+2024,Detroit Red Wings,278.0,274.0,82.0
+2024,Buffalo Sabres,246.0,244.0,82.0
+2024,Ottawa Senators,255.0,281.0,82.0
+2024,Montreal Canadiens,236.0,289.0,82.0
+2024,New York Rangers,282.0,229.0,82.0
+2024,Carolina Hurricanes,279.0,216.0,82.0
+2024,New York Islanders,246.0,263.0,82.0
+2024,Washington Capitals,220.0,257.0,82.0
+2024,Pittsburgh Penguins,255.0,251.0,82.0
+2024,Philadelphia Flyers,235.0,261.0,82.0
+2024,New Jersey Devils,264.0,283.0,82.0
+2024,Columbus Blue Jackets,237.0,300.0,82.0
+2025,Winnipeg Jets,277.0,191.0,82.0
+2025,Dallas Stars,277.0,224.0,82.0
+2025,Colorado Avalanche,277.0,234.0,82.0
+2025,Minnesota Wild,228.0,239.0,82.0
+2025,St. Louis Blues,254.0,233.0,82.0
+2025,Utah Hockey Club,241.0,251.0,82.0
+2025,Nashville Predators,214.0,274.0,82.0
+2025,Chicago Blackhawks,226.0,296.0,82.0
+2025,Vegas Golden Knights,275.0,219.0,82.0
+2025,Los Angeles Kings,250.0,206.0,82.0
+2025,Edmonton Oilers,259.0,236.0,82.0
+2025,Calgary Flames,225.0,238.0,82.0
+2025,Vancouver Canucks,236.0,253.0,82.0
+2025,Anaheim Ducks,221.0,263.0,82.0
+2025,Seattle Kraken,247.0,265.0,82.0
+2025,San Jose Sharks,210.0,315.0,82.0
+2025,Toronto Maple Leafs,268.0,231.0,82.0
+2025,Tampa Bay Lightning,294.0,219.0,82.0
+2025,Florida Panthers,252.0,223.0,82.0
+2025,Ottawa Senators,243.0,234.0,82.0
+2025,Montreal Canadiens,245.0,265.0,82.0
+2025,Detroit Red Wings,238.0,259.0,82.0
+2025,Buffalo Sabres,269.0,289.0,82.0
+2025,Boston Bruins,222.0,272.0,82.0
+2025,Washington Capitals,288.0,232.0,82.0
+2025,Carolina Hurricanes,266.0,233.0,82.0
+2025,New Jersey Devils,242.0,222.0,82.0
+2025,Columbus Blue Jackets,273.0,268.0,82.0
+2025,New York Rangers,256.0,255.0,82.0
+2025,New York Islanders,224.0,260.0,82.0
+2025,Pittsburgh Penguins,243.0,293.0,82.0
+2025,Philadelphia Flyers,238.0,286.0,82.0
